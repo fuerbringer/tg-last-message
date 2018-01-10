@@ -1,0 +1,26 @@
+{
+  "name": "tg-last-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoi15A/tg-last-message.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Austin Albrecht",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Hoi15A/tg-last-message/issues"
+  },
+  "homepage": "https://github.com/Hoi15A/tg-last-message#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
